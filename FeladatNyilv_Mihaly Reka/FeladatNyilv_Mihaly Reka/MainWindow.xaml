@@ -1,0 +1,23 @@
+﻿<Window x:Class="FeladatNyilv_Mihaly_Reka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FeladatNyilv_Mihaly_Reka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid>
+        <Label Content="Feladatok listája" HorizontalAlignment="Left" Margin="23.131,36.617,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="feladatList" HorizontalAlignment="Left" Height="143.625" Margin="23.131,67.617,0,0" VerticalAlignment="Top" Width="358.212"/>
+    <Label Content="Törölt elemek" HorizontalAlignment="Left" Margin="23.131,216.242,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="toroltLista" HorizontalAlignment="Left" Height="140.229" Margin="23.131,242.242,0,0" VerticalAlignment="Top" Width="358.212"/>
+        <Label Content="Feladat szövege" HorizontalAlignment="Left" Margin="397.35,36.617,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="ujButton" Content="Új hozzáadása" HorizontalAlignment="Left" Margin="403.603,88.617,0,0" VerticalAlignment="Top" Width="167.62" Click="ujButton_Click"/>
+        <Button x:Name="modositGomb" Content="Kijelölt feladat módosítása" HorizontalAlignment="Left" Margin="403.603,113.617,0,0" VerticalAlignment="Top" Width="167.62" Click="modositGomb_Click"/>
+        <Button x:Name="torolButton" Content="Kijelölt feladat törlése" HorizontalAlignment="Left" Margin="403.603,138.617,0,0" VerticalAlignment="Top" Width="167.62" Click="TorolButton_Click"/>
+        <Button x:Name="visszaallButton" Content="Kijelölt feladat visszaállítása" HorizontalAlignment="Left" Margin="403.603,242.242,0,0" VerticalAlignment="Top" Width="167.62" Click="VisszaallButton_Click"/>
+        <Button x:Name="vTorolButton" Content="Kijelölt feladat végleg törlése" HorizontalAlignment="Left" Margin="403.603,275.183,0,0" VerticalAlignment="Top" Width="167.62" Click="VTorolButton_Click"/>
+        <TextBox x:Name="beFeladat" HorizontalAlignment="Left" Height="23" Margin="403.603,62.617,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167.62"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,29 @@
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.csprojAssemblyReference.cache
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\MainWindow.g.cs
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\App.g.cs
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka_MarkupCompile.cache
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka_MarkupCompile.lref
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\bin\Debug\FeladatNyilv_Mihaly Reka.exe
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\bin\Debug\FeladatNyilv_Mihaly Reka.pdb
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\MainWindow.baml
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.g.resources
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly_Reka.Properties.Resources.resources
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.csproj.GenerateResource.cache
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.csproj.CoreCompileInputs.cache
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.exe
+C:\mihály réka\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.pdb
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\bin\Debug\FeladatNyilv_Mihaly Reka.exe.config
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\bin\Debug\FeladatNyilv_Mihaly Reka.exe
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\bin\Debug\FeladatNyilv_Mihaly Reka.pdb
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka_MarkupCompile.cache
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka_MarkupCompile.lref
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.g.resources
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly_Reka.Properties.Resources.resources
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.exe
+C:\Users\User\Downloads\Mihály Réka\program\FeladatNyilv_Mihaly Reka\FeladatNyilv_Mihaly Reka\obj\Debug\FeladatNyilv_Mihaly Reka.pdb

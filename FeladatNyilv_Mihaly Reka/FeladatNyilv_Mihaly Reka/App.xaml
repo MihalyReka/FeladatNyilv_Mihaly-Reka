@@ -1,0 +1,9 @@
+﻿<Application x:Class="FeladatNyilv_Mihaly_Reka.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:FeladatNyilv_Mihaly_Reka"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
